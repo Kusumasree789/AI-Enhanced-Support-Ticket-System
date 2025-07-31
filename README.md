@@ -1,4 +1,4 @@
-# AI-Powered Support Ticket Management System
+# AI Enhanced Support Ticket System
 
 A scalable and intelligent ticket management platform that leverages AWS services to automate ticket prioritization, enhance customer support, and provide real-time analytics.
 
